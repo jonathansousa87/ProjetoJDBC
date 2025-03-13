@@ -1,4 +1,4 @@
-package org.revisao;
+package br.loja;
 
 public class Main {
     public static void main(String[] args) {
